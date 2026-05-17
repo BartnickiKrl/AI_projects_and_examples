@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Neural_network_Fourier_tranform.html filter=lfs diff=lfs merge=lfs -text
+Neural_network_Fourier_tranform.ipynb filter=lfs diff=lfs merge=lfs -text
